@@ -1,6 +1,8 @@
 # curso-python-pip
 
-#PARA EJECUTAR EL JUEGO 
+# PARA EJECUTAR EL JUEGO 
+
+Para ejecutar el juego debes seguir las siguientes instrucciones
 
 ```sh
 cd game
